@@ -1,5 +1,4 @@
 git init // for initializing respository
 git add <file>
 git commit -m "your commit message"
-git ich lerne gerade 
-git ist echt wirklich schwer
+git zu lernen wird echt ne herausforderung sein
