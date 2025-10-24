@@ -3,4 +3,3 @@ git add <file>
 git commit -m "your commit message"
 git zu lernen wird echt ne herausforderung sein
 git reset --soft HEAD~1
-git reset --hart HEAD~1
